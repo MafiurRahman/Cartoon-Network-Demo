@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.8</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>11</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>slider</GalleryName>
+            <GallerySuffix>0</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>stack</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>500</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/crystal/</ImageTemplate>
+            <ImageTemplateName>Crystal</ImageTemplateName>
+            <ImageWidth>1085</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Dell/Desktop/BestFreelancer/Cartoon Network/index.html</PublishFileName>
+            <PublishIndex>index.html</PublishIndex>
+            <PublishPath>C:/Users/Dell/Desktop/BestFreelancer/Cartoon Network</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>page</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Tahoma</TemplateFont>
+            <TemplateName>crystal</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Dell/Desktop/BestFreelancer/Cartoon Network/img/x1080.jpg</url>
+                <filesize>190675</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Dell/Desktop/BestFreelancer/Cartoon Network/img/25305780c7c0058967b3b237a6b9f064.jpg</url>
+                <filesize>195970</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Dell/Desktop/BestFreelancer/Cartoon Network/img/anime-series-like-dragon-ball-z.jpg</url>
+                <filesize>223318</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Dell/Desktop/BestFreelancer/Cartoon Network/img/Cartoon-Network-1000x563.jpg</url>
+                <filesize>278201</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Dell/Desktop/BestFreelancer/Cartoon Network/img/courage-the-cowardly-dog.jpg</url>
+                <filesize>88011</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Dell/Desktop/BestFreelancer/Cartoon Network/img/pokemon-feat-image.jpg</url>
+                <filesize>285289</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Dell/Desktop/BestFreelancer/Cartoon Network/img/wp1841326.jpg</url>
+                <filesize>104891</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

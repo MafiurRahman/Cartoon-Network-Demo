@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Lilita+One&family=Kaushan+Script&family=Permanent+Marker&display=swap');
+body{
+	font-family: 'Permanent Marker', cursive;
+background-color:red;
+}
+	*{
+		box-sizing:border-box;
+		margin:0;
+		padding:0;
+		
+	}
+	header{
+	display:flex;	
+	justify-content:space-between;
+	align-items:center;
+	padding:30px 10%;
+	}
+	.logo{
+		height:50px;
+		width:80px;
+	}
+
+	button{
+		padding:9px 25px;
+		background-color:#000000;
+		color:#edefff;
+		border:none;
+		border-radius:50px;
+		cursor:pointer;
+		transition:	all 0.3s ease 0s;
+		font-family: 'Lilita One', cursive;
+		}
+	button:hover{
+		background-color:#edefff;
+		color:#000000;
+	}
+
+#menu{
+	list-style:none;
+	
+
+}
+#menu li{
+	float:left;
+	position:relative;
+	background-color:purple;
+}
+#menu li a{
+	text-decoration:none;
+	color:#edefff;
+	background-color:black;
+	display:block;
+	padding:10px 20px;
+	transition:width 2s ;
+	width:120px;
+}
+#menu li a:hover{
+	background-color:#edefff;
+	color:#000000;
+	width:200px;
+
+}
+#menu li ul{
+	list-style-type:none;
+	position:absolute;
+	left:-9999999px;
+	display:block;
+}
+#menu li:hover ul{
+left:0;
+}
+#menu li ul li a{
+width:200px;
+}
+

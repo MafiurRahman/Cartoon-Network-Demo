@@ -1,0 +1,52 @@
+<html>
+<head>
+				<title>Navigation Type 001</title>
+
+				<link rel="stylesheet" type="text/css" href="css/style.css">
+				<link rel="stylesheet" type="text/css" href="css/search.css">
+				
+				
+			
+</head>
+
+<body>
+<header>
+			<img class="logo" src="img/cnl.png">		
+
+		<nav>
+						<ul id="menu">
+									<li><a href="#">Home</a></li>
+									<li><a href="#">Display</a></li>
+									<li><a href="#">Dropdown</a>
+															<ul>
+									<li><a href="#">Home</a></li>
+									<li><a href="#">Display</a></li>
+									<li><a href="#">News</a></li>
+									<li><a href="#">Update</a></li>
+									<li><a href="#">Dropdown</a></li>
+									<li><a href="#">Contact</a></li>
+																</ul></li>
+    								<li><a href="#">Display</a></li>
+									<li><a href="#">Display</a></li>
+						</ul>
+		</nav>
+		<a class="cta" href="#"><button>CONTACT</button></a>
+</header>
+
+		<div class="search-box-div">
+		  <div class="search-box">
+   <input type="text" name="" class="search-txt" placeholder="Search..."/>
+   <a class="search-btn">
+	<img class="img" src="img/s.jpg">
+   </a>
+   
+  </div>
+		
+</div>
+<br>
+<br>
+<div class"bal">
+
+</div>
+</body>
+</html>

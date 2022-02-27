@@ -1,0 +1,54 @@
+.c-wrap{
+	min-height:100%;
+	margin-top:20px;
+	
+}
+.f-wrap{
+	background-color:#412525;
+	color:#edefff;
+	display:flex;
+	justify-content:space-between;
+	font-family: 'Alegreya Sans', sans-serif;
+}
+.f-wrap h1{
+	color:white;
+}
+.first-half{
+	width:60%;
+	margin-top:20px;
+}
+.fp{
+	float:left;
+	margin-left:20px;
+}
+.fp a{
+	padding:5px;
+	text-decoration:none;
+	color:#edefff;
+	display:block;
+}
+.second-half{
+	margin-top:20px;
+	margin-right:20px;
+	text-align:right;
+	width:40%;
+	
+} 
+.second-half .flogo img{
+	height:56px;
+	width:60%;
+}
+.second-half .para{
+	font-size:12px;
+	text-align:right;
+}
+.protect-footer{
+	background-color:#233e35;
+	padding:6px;
+	color:white;
+	text-align:center;
+	font-size:12px;
+}
+.protect-footer p{
+	opacity:30%;
+}
